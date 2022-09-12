@@ -54,4 +54,4 @@ The <b>\_printf()</b> function write the output under the control of a format st
 If an output error is encountered, a negative value is returned.</h4>
 
 <h2>Authors</h2>
-<h3>t-Spirit & godwhin</h3>
+<h3>gibson & Olugbenga </h3>
